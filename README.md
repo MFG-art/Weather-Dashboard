@@ -2,6 +2,9 @@
 
 Project link: [Weather Dashboard](https://mfg-art.github.io/Homework/06-Weather/)
 
+NOTE: The original commit history can be found in [this repo](https://github.com/MFG-art/MFG-art.github.io).
+The commits for this project begin [here](https://github.com/MFG-art/MFG-art.github.io/commit/8c838fbc7247a2f1ed533e30cb404a4c1ac624d8) and end [here](https://github.com/MFG-art/MFG-art.github.io/commit/1c0129629b58afdeb391d3abaafd2469feac5412).
+
 ## Table of Contents
 
 - [Description](#description)
